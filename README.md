@@ -9,3 +9,6 @@ The coins and their equivalence are below:
 -Pooney: 1
 
 This information is outputted in both a list and column with the date and time printed as well. 
+
+To Run -
+    gfortran change.f90 -o (what ever you would like the name of the file to compile to)
